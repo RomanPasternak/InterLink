@@ -1,0 +1,11 @@
+D:\Download\InternshipTest Csharp\bin\Debug\netcoreapp2.1\internshiptest.deps.json
+D:\Download\InternshipTest Csharp\bin\Debug\netcoreapp2.1\internshiptest.runtimeconfig.json
+D:\Download\InternshipTest Csharp\bin\Debug\netcoreapp2.1\internshiptest.runtimeconfig.dev.json
+D:\Download\InternshipTest Csharp\bin\Debug\netcoreapp2.1\internshiptest.dll
+D:\Download\InternshipTest Csharp\bin\Debug\netcoreapp2.1\internshiptest.pdb
+D:\Download\InternshipTest Csharp\obj\Debug\netcoreapp2.1\internshiptest.csprojAssemblyReference.cache
+D:\Download\InternshipTest Csharp\obj\Debug\netcoreapp2.1\internshiptest.csproj.CoreCompileInputs.cache
+D:\Download\InternshipTest Csharp\obj\Debug\netcoreapp2.1\internshiptest.AssemblyInfoInputs.cache
+D:\Download\InternshipTest Csharp\obj\Debug\netcoreapp2.1\internshiptest.AssemblyInfo.cs
+D:\Download\InternshipTest Csharp\obj\Debug\netcoreapp2.1\internshiptest.dll
+D:\Download\InternshipTest Csharp\obj\Debug\netcoreapp2.1\internshiptest.pdb
